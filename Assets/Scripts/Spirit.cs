@@ -10,7 +10,7 @@ public class Spirit : MonoBehaviour
     private InputAction attack;
     private bool isMoving = false;
     private float movingCooldown = 0f;
-    private readonly float movingCooldownTime = 1.0f;
+    private readonly float movingCooldownTime = 0.5f;
     private float attackCooldown = 0f;
     private readonly float attackCooldownTime = 0.5f;
     private readonly float speed = 30.0f;
