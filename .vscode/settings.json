@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "topviewprototype.sln"
+    "dotnet.defaultSolution": "topview-prototype.sln"
 }
